@@ -1,8 +1,36 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+L
+postgres-download-scripts.sh,4/e/4eee91e1d7e941793def9e45abe260da0d8845ee
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-L
-.github/workflows/build.yaml,c/7/c7ac90e913cbea95bae828d296ff638c202852d7
+>
+datasource.txt,f/e/fe94d615030434b584c4bc206db4b71359ed23ee
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+`
+0src/main/java/at/htlleonding/entity/Vehicle.java,5/7/57ae9a0f3a354c0cf7afcd93bcfa8548c2bdc4b1
+k
+;src/main/java/at/htlleonding/control/VehicleRepository.java,d/5/d5c7fc2819a4f5255409d9bc73d7b4598b93ac78
+d
+4src/main/java/at/htlleonding/control/RestConfig.java,5/2/52657bd1735637e35ef55ead7848b15705850b0b
+a
+1src/main/java/at/htlleonding/ExampleResource.java,a/a/aa9c7779c42b56ac8cd83cefc524cfc0fd0a8f42
+j
+:src/main/java/at/htlleonding/boundary/VehicleResource.java,7/d/7d26ada36043c68e4f1655f7e0ddc4d9a22ceb81
+K
+http-requests/requests.http,0/6/06af1af2b3875cbc76d0d9d4da2db11d71632868
+[
++src/main/docker/docker-compose-postgres.yml,4/6/46d377c7068b3cf823dcda13a9efe4fb934feac6
+J
+src/main/docker/Dockerfile,a/b/ab51612a408512c8a751032c10f253b097e1d51f
+7
+k8s/k8s,c/8/c8c1fc662c7f0b700bbc3bfdd8aaa8f9c95bc21b
+?
+src/appsrv.yaml,6/d/6d1b260aff2c3ed3b1f355c250e5da2a863fea58
+?
+k8s/appsrv.yaml,5/d/5d7ccc29177c14291e9cae92b7273fc70d3cd887
+A
+k8s/postgres.yaml,5/f/5f2fdb7b0cca9a7e42248e5bf6237de400f0c7d9
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
